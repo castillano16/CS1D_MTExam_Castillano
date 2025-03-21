@@ -1,0 +1,5 @@
+let colors = [];
+
+for (i = 0; i < 3;i++) {
+colors.push(color);
+console.log (colors);
